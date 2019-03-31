@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">STERELA</string>
+    <string name="texteMenu" translatable="false">MENU</string>
+    <string name="texteStationMeteo" translatable="false">MERCURY</string>
+    <string name="action_settings">Parametres</string>
+
+
+    <string name="Labels_Bloc_1">
+Temp. Air Inst. :
+        23,1°C\n\n\n\n
+
+
+
+Température du point de rosée :
+        18,4°C\n\n\n\n
+
+
+
+Temperature de surface :
+        15°C</string>
+
+    <string name="Labels_Bloc_2">
+Hauteur d\'eau :
+        15486,2 µm\n\n\n\n
+
+
+
+Concentration salinité NaCl² :
+        45 %\n\n\n\n
+
+
+
+Concentration salinité MgCl² :
+        24 %</string>
+
+    <string name="Labels_Bloc_3">
+Vitesse Vent Moy 10\' :
+        0,25 m/s\n\n\n\n
+
+
+
+Direction Vent Moy 10\' :
+        278,5°C\n\n\n\n
+
+
+
+Wind Speed Max1\' :
+        125,56 m/s</string>
+
+    <string name="Labels_Bloc_4">
+Pression absolu :
+        856,4 hPa\n\n\n\n
+
+
+
+Coefficient de friction :
+        0,22\n\n\n\n
+
+
+
+Concentration glace :
+        88%</string>
+
+    <string name="Labels_Bloc_5">
+Cumul précipitation 1\' :
+        22,05 mm\n\n\n\n
+
+
+
+Intensité précipitation 1\' :\n
+        2,58 mm/h\n\n\n\n
+
+
+
+Type précipation 1\' :
+        1</string>
+
+    <string name="Labels_Bloc_6">
+Cumul précipitation :
+        995,5 mm\n\n\n\n
+
+
+
+Intensité des précipitation  :\n
+        854,48 mm/h\n\n\n\n
+
+
+
+Type des précipitations (Code) :
+        1</string>
+
+     <string name="Labels_Bloc_7">
+Rayonnement Direct :
+        3 000 J/m²\n\n\n\n
+
+
+
+Rayonnement Diffus :
+        1 000 J/m²\n\n\n\n
+
+
+
+Rayonnement global :
+        2 500 J/m²</string>
+
+    <string name="Labels_Bloc_8">
+Tension d\'alim :
+        12,5 V\n\n\n\n
+
+
+
+Température interne :
+        54,2 °C\n\n\n\n
+
+
+
+Pourcentage charge batterie :
+        34 %</string>
+
+
+
+    <string name="Langue">Langue</string>
+    <string name="Affichage">Affichage</string>
+
+    <string name="Connecter">Se connecter</string>
+    <string name="Déconnecter">Se déconnecter</string>
+
+    <string name="Deconnecter">Déconnecter</string>
+    <string name="Luminosité">Luminosité</string>
+    <string name="Mode">Mode</string>
+    <string name="Quitter">Quitter</string>
+
+
+
+    <string name="Langue_1">Anglais</string>
+    <string name="Langue_2">Français</string>
+
+    <string name="Mode_J">Jour</string>
+    <string name="Mode_N">Nuit</string>
+
+    <string name="Boutton_Bluetooth" translatable="false">Bluetooth</string>
+    <string name="Boutton_RS232" translatable="false">RS232</string>
+
+    <string name="Description_Logo_L" translatable="false">LOGO LIMAYRAC</string>
+    <string name="Description_Logo_S" translatable="false">LOGO STERELA</string>
+
+
+
+</resources>

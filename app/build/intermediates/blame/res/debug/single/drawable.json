@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_langue.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_langue.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_mode.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_mode.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_shape.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_mode_jour.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_mode_jour.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logosterela.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logosterela.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_en.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_en.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_mode_nuit.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_mode_nuit.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_connecterdeconnecter.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_connecterdeconnecter.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_luminosite.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_luminosite.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_password.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_password.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_parametres_rs232.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_parametres_rs232.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_deconnexion.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_deconnexion.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_erreur_connexion.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_erreur_connexion.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_fr.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_fr.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_progress_bar.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_affichage.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logo_affichage.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\curseur_luminosite.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\curseur_luminosite.png"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logolimayrac.png",
+        "source": "G:\\DEMO\\8Blocs+Demo\\Sterela\\app\\src\\main\\res\\drawable\\logolimayrac.png"
+    }
+]

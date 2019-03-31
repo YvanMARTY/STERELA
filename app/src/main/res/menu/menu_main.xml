@@ -1,0 +1,50 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/action_settings"
+            android:title="@string/action_settings"
+            android:orderInCategory="100"
+            app:showAsAction="never"
+            android:visible="false" />
+        </group>
+
+    <!--<item android:id="@+id/MENU"
+        android:title="@string/action_settings"/>-->
+
+        <!-- MENU PRINCIPAL -->
+            <item
+                android:id="@+id/Langue"
+                android:title="@string/Langue" >
+            </item>
+
+            <item
+            android:id="@+id/Affichage"
+            android:title="@string/Affichage"/>
+
+            <item
+            android:id="@+id/ConnecterDeconnecter"
+            android:title="@string/Connecter" />
+
+            <!--
+            <item
+            android:id="@+id/Deconnecter"
+            android:title="@string/Déconnecter" />
+            -->
+
+            <item
+            android:id="@+id/Luminosité"
+            android:title="@string/Luminosité"/>
+
+            <item
+            android:id="@+id/Mode"
+            android:title="@string/Mode">
+            </item>
+
+            <item
+            android:id="@+id/Quitter"
+            android:title="@string/Quitter"/>
+
+
+    </menu>

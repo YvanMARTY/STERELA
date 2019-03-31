@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Affichage">Display</string>
+    <string name="Boutton_Bluetooth" translatable="false"/>
+    <string name="Connecter">Connect</string>
+    <string name="Deconnecter">Disconnect</string>
+    <string name="Déconnecter">Diconnect</string>
+    <string name="Langue">Language</string>
+    <string name="Langue_1">English</string>
+    <string name="Langue_2">French</string>
+    <string name="Luminosité">Brightness</string>
+    <string name="Mode_J">Day</string>
+    <string name="Mode_N">Night</string>
+    <string name="Quitter">Exit</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">STERELA</string>
+</resources>

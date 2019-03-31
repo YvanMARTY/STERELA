@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+ <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.my020571.sterela2.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:id="@+id/fenetre">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:id="@+id/BarreDeMenus"
+        android:weightSum="1"
+        android:background="@color/CouleurFondTitleBar"
+        android:orientation="horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/texteMenu"
+            android:id="@+id/BouttonMenu"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/radioButton"
+            android:focusable="false"
+            android:editable="false"
+            android:checked="false" />
+
+
+    </LinearLayout>
+
+    <TextClock
+
+
+        android:format24Hour="dd MMM, yyyy k:mm:ss"
+        android:format12Hour="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Heure"
+        android:inputType="datetime"
+        android:clickable="false"
+        android:textStyle="bold"
+        android:textColor="@color/Black"
+        android:textSize="20sp"
+        android:layout_alignEnd="@+id/BarreDeMenus"
+        android:layout_alignTop="@+id/BarreDeMenus" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:padding="0dp"
+        android:id="@+id/BlocDe4_1_IMPAIR"
+        android:layout_below="@+id/BarreDeMenus"
+        android:layout_above="@+id/BlocDe4_2_PAIR"
+        android:weightSum="1"
+        android:layout_alignParentEnd="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false">
+
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_1"
+            android:layout_weight="0.24"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false" />
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_3"
+            android:layout_weight="0.24"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false" />
+
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_5"
+            android:layout_weight="0.24"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false" />
+
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_7"
+            android:layout_weight="0.24"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/BlocDe4_2_PAIR"
+        android:weightSum="1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:measureWithLargestChild="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false">
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_2"
+            android:layout_weight="0.24"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false" />
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_4"
+            android:layout_weight="0.24"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false" />
+
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_6"
+            android:layout_weight="0.24"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false" />
+
+        <EditText
+            android:layout_width="290dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Bloc_8"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:longClickable="false"
+            android:layout_weight="0.24" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/texteStationMeteo"
+        android:id="@+id/NomDeLaStation"
+        android:textColor="@color/Black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentEnd="false"
+        android:editable="false"
+        android:layout_above="@+id/BlocDe4_1_IMPAIR" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/LogoSterela"
+        android:src="@drawable/logosterela"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/BlocDe4_1_PAIR"
+        android:layout_marginStart="115dp"
+        android:contentDescription="@string/Description_Logo_L"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/BarreDeMenus" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/LogoLimayrac"
+        android:src="@drawable/logolimayrac"
+        android:layout_toStartOf="@+id/Heure"
+        android:layout_marginEnd="106dp"
+        android:contentDescription="@string/Description_Logo_S"
+        android:layout_above="@+id/BlocDe4_1_IMPAIR" />
+
+</RelativeLayout>
